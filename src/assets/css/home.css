@@ -1,0 +1,14 @@
+.main {
+    position: relative;
+    
+    /* z-index: -300; */
+}
+
+.main-cover {
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ) ,url('../images/cover.svg');
+    /* background: radial-gradient(#525252, #131313); */
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    /* opacity: 0.4; */
+}

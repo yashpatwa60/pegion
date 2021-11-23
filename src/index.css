@@ -1,0 +1,15 @@
+/* Global CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* outline: 2px solid red; */
+}
+html, body, #app, #app>div {
+  height: 100%;
+  position: relative;
+}
+
+.btn {
+  background-color:  #0077B6 !important;
+}
